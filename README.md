@@ -16,4 +16,5 @@ Tämä projekti on luotu osoittamaan C++-ohjelmointia, Dear ImGui -käyttöliitt
 
 
 Voit kääntää ohjelman Windowsilla (MinGW) seuraavalla komennolla:
-g++ *.cpp -o mg_crypt.exe -I./include -L./lib -lglfw3dll -lopengl32 -lgdi32 -mwindows
+
+`g++ *.cpp -o mg_crypt.exe -I./include -L./lib -lglfw3dll -lopengl32 -lgdi32 -mwindows`
