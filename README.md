@@ -2,7 +2,7 @@
 Lightweight file encryption suite with XOR-logic, SHA-hashing, and auto-destruct countdown. Built with C++, OpenGL, and ImGui.
 Kevyt ja interaktiivinen salausohjelma C++:lla.
 
-![Käyttöliittymästä kuva]("Näyttökuva 2026-03-28 103156.png")
+![Käyttöliittymästä kuva]("figure2.png")
 
 Tämä projekti on luotu osoittamaan C++-ohjelmointia, Dear ImGui -käyttöliittymäsuunnittelua ja bittitason tiedostonkäsittelyä.
 
